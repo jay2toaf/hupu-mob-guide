@@ -1,2 +1,14 @@
 # hupu-mob-guide
-HTML page archive and documentation
+
+仓库页面索引说明
+
+本项目用于存档页面文件，便于长期保留和检查。
+
+## 文件归档
+
+- HTML 页面用于访问展示
+- README 用于说明归档用途
+
+## 访问备注
+
+GitHub Pages 生效可能需要短暂等待，实际状态以访问结果为准。
